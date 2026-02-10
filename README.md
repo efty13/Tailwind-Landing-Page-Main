@@ -26,7 +26,7 @@ This project is designed as a simple starter template and learning resource for 
 ```
 
 ---
-##🚀 Getting Started
+## 🚀 Getting Started
 
 Clone the repository:
 ```bash
@@ -52,6 +52,7 @@ Open index.html in your browser to view the project.
 
 ---
 ## 🎨 Customization
+
 	-	Tailwind configuration: tailwind.config.js
 	-	Base styles: input.css
 	-	Page content: index.html
@@ -59,10 +60,10 @@ Open index.html in your browser to view the project.
 
 ---
 ## 📌 Use Cases
-		Landing page templates
-	•	Product or startup websites
-	•	Tailwind CSS practice projects
-	•	Frontend portfolio projects
+	-	Landing page templates
+	-	Product or startup websites
+	-	Tailwind CSS practice projects
+	-	Frontend portfolio projects
 
 ---
 ## 📄 License
