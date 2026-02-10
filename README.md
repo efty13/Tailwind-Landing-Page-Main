@@ -23,27 +23,32 @@ This project is designed as a simple starter template and learning resource for 
 ├── tailwind.config.js
 ├── package.json
 └── README.md
-
 ```
+
+---
 ##🚀 Getting Started
 
 Clone the repository:
 ```bash
 git clone https://github.com/efty13/Tailwind-Landing-Page-Main.git
+```
 
 Navigate to the project directory:
 ```bash
 cd Tailwind-Landing-Page-Main
+```
 
 Install dependencies:
 ```bash
 npm install
+```
 
 Build Tailwind CSS:
 ```bash
 npx tailwindcss -i ./input.css -o ./css/style.css --watch
 
 Open index.html in your browser to view the project.
+```
 
 ---
 ## 🎨 Customization
