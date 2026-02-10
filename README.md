@@ -24,6 +24,7 @@ This project is designed as a simple starter template and learning resource for 
 ├── package.json
 └── README.md
 
+```
 ##🚀 Getting Started
 
 Clone the repository:
@@ -44,19 +45,22 @@ npx tailwindcss -i ./input.css -o ./css/style.css --watch
 
 Open index.html in your browser to view the project.
 
-##🎨 Customization
-	•	Tailwind configuration: tailwind.config.js
-	•	Base styles: input.css
-	•	Page content: index.html
-	•	Images and icons: img/
+---
+## 🎨 Customization
+	-	Tailwind configuration: tailwind.config.js
+	-	Base styles: input.css
+	-	Page content: index.html
+	-	Images and icons: img/
 
-##📌 Use Cases
-	•	Landing page templates
+---
+## 📌 Use Cases
+		Landing page templates
 	•	Product or startup websites
 	•	Tailwind CSS practice projects
 	•	Frontend portfolio projects
 
-##📄 License
+---
+## 📄 License
 
 This project is open for personal and educational use.
 You are free to modify and adapt it to your needs.
